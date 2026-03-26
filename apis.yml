@@ -1,0 +1,28 @@
+aid: kustomize
+name: Kustomize
+description: >-
+  Kustomize is a Kubernetes native configuration management tool for customizing application configuration without templates.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Containers
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/kustomize/refs/heads/main/apis.yml
+created: '2026-03-26'
+modified: '2026-03-26'
+specificationVersion: '0.19'
+apis:
+  - aid: kustomize:kustomize
+    name: Kustomize
+    description: >-
+      Kustomize is a Kubernetes native configuration management tool for customizing application configuration without templates.
+    humanURL: https://github.com/api-evangelist/kustomize
+    tags:
+      - Containers
+    properties: []
+common:
+  - type: Website
+    url: https://github.com/api-evangelist/kustomize
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
