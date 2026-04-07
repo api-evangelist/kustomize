@@ -5,11 +5,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Containers
-  - Kubernetes
   - Configuration Management
-  - YAML
+  - Containers
   - Infrastructure as Code
+  - Kubernetes
+  - YAML
 url: >-
   https://raw.githubusercontent.com/api-evangelist/kustomize/refs/heads/main/apis.yml
 created: '2026-03-26'
@@ -22,11 +22,11 @@ apis:
       Kustomize is a Kubernetes-native configuration management tool that lets you customize untemplated YAML files for multiple purposes, leaving the original YAML intact and usable as-is, using a template-free approach to configuration customization.
     humanURL: https://kustomize.io/
     tags:
-      - Containers
-      - Kubernetes
       - Configuration Management
-      - YAML
+      - Containers
       - Infrastructure as Code
+      - Kubernetes
+      - YAML
     properties:
       - type: Documentation
         url: https://kubectl.docs.kubernetes.io/references/kustomize/
