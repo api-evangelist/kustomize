@@ -56,6 +56,12 @@ apis:
       - type: GettingStarted
         url: https://kubectl.docs.kubernetes.io/installation/kustomize/
 common:
+  - type: Plans
+    url: plans/kustomize-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/kustomize-rate-limits.yml
+  - type: FinOps
+    url: finops/kustomize-finops.yml
   - type: DomainSecurity
     url: security/kustomize-domain-security.yml
   - type: Website
